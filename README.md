@@ -1,6 +1,6 @@
 <img src="images/SmartHomeGuys-Banner.png">
 
-Welcome to SmartHomeGuys we’re a small UK based maker of smarthome hardware and design every device to solve a problem in our house and then open source it on here.
+Welcome to SmartHomeGuys we’re a small (2 person) UK based maker of smarthome hardware and design every device to solve a problem in our house and then open source it on here.
 
 ## The products
 - DeskUp Pro - Controls a standing desk with an RJ12 socket with Home Assistant, Homey Pro, etc
