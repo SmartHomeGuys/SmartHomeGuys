@@ -1,4 +1,4 @@
-<img src="images/SmartHomeGuys-Banner.png">
+<img src="images/SmartHomeGuys-Banner2.png">
 
 Welcome to SmartHomeGuys we’re a small UK based maker of smarthome hardware and design every device to solve a problem in our house and then open source it on here.
 
